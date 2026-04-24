@@ -1,6 +1,9 @@
-node_modules/
-artifacts/
-cache/
+# frontend junk
 frontend/node_modules/
+frontend/.npm-cache/
 frontend/dist/
 
+# general
+node_modules/
+dist/
+.npm-cache/
